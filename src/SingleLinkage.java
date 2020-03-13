@@ -15,3 +15,5 @@ public class SingleLinkage implements IDistanceStrategy{
         return distance;
     }
 }
+
+
